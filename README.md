@@ -3,6 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/joflucki/axelrod?color=red)
 ![Deno Badge](https://img.shields.io/badge/built%20with-Rust-00894f?logo=rust)
 ![GitHub last commit](https://img.shields.io/github/last-commit/joflucki/axelrod?color=purple)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/joflucki/localps/lint.yml?label=tests)
 
 **A simple Rust API for simulating games based on Robert Axelrod's collaborate/defect scenario.**
 
