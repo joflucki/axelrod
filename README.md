@@ -1,6 +1,3 @@
-### `README.md`
-
-
 # Axelrod
 
 ![GitHub License](https://img.shields.io/github/license/joflucki/axelrod?color=red)
