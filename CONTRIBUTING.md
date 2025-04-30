@@ -1,6 +1,6 @@
-# Contributing to Localps
+# Contributing to Axelrod
 
-Thank you for your interest in contributing to Localps!
+Thank you for your interest in contributing to Axelrod!
 
 As the primary developer of this side project, I may not be actively looking for contributions at this time. However, if you have found a bug or have a suggestion, please feel free to open an issue on the repository.
 
